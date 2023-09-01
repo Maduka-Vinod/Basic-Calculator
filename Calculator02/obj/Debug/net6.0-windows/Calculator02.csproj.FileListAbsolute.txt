@@ -1,0 +1,32 @@
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\bin\Debug\net6.0-windows\Calculator02.exe
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\bin\Debug\net6.0-windows\Calculator02.deps.json
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\bin\Debug\net6.0-windows\Calculator02.runtimeconfig.json
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\bin\Debug\net6.0-windows\Calculator02.dll
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\bin\Debug\net6.0-windows\Calculator02.pdb
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\obj\Debug\net6.0-windows\Calculator02.Form1.resources
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\obj\Debug\net6.0-windows\Calculator02.csproj.GenerateResource.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\obj\Debug\net6.0-windows\Calculator02.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\obj\Debug\net6.0-windows\Calculator02.AssemblyInfoInputs.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\obj\Debug\net6.0-windows\Calculator02.AssemblyInfo.cs
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\obj\Debug\net6.0-windows\Calculator02.csproj.CoreCompileInputs.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\obj\Debug\net6.0-windows\Calculator02.dll
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\obj\Debug\net6.0-windows\refint\Calculator02.dll
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\obj\Debug\net6.0-windows\Calculator02.pdb
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\obj\Debug\net6.0-windows\Calculator02.genruntimeconfig.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\Calculator02\Calculator02\obj\Debug\net6.0-windows\ref\Calculator02.dll
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\bin\Debug\net6.0-windows\Calculator02.exe
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\bin\Debug\net6.0-windows\Calculator02.deps.json
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\bin\Debug\net6.0-windows\Calculator02.runtimeconfig.json
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\bin\Debug\net6.0-windows\Calculator02.dll
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\bin\Debug\net6.0-windows\Calculator02.pdb
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\obj\Debug\net6.0-windows\Calculator02.Form1.resources
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\obj\Debug\net6.0-windows\Calculator02.csproj.GenerateResource.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\obj\Debug\net6.0-windows\Calculator02.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\obj\Debug\net6.0-windows\Calculator02.AssemblyInfoInputs.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\obj\Debug\net6.0-windows\Calculator02.AssemblyInfo.cs
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\obj\Debug\net6.0-windows\Calculator02.csproj.CoreCompileInputs.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\obj\Debug\net6.0-windows\Calculator02.dll
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\obj\Debug\net6.0-windows\refint\Calculator02.dll
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\obj\Debug\net6.0-windows\Calculator02.pdb
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\obj\Debug\net6.0-windows\Calculator02.genruntimeconfig.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\Basic Calculator\Calculator02\obj\Debug\net6.0-windows\ref\Calculator02.dll
